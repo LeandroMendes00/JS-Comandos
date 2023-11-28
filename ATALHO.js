@@ -3,11 +3,7 @@
 /*
     *
         *
-            A
-                U
-                    L
-                        A
-                            6
+            
                                 *
                                     *
                                         */
@@ -34,11 +30,7 @@ console.log(nomeCliente);
 /*
     *
         *
-            A
-                U
-                    L
-                         A
-                            7
+            
                                 *
                                     *
                                         */
@@ -54,12 +46,7 @@ console.log(nomeCliente);
 /*
     *
         *
-            A
-                U
-                    L
-                        A
-                            1
-                                0
+           
                                     *
                                         *
                                             */                                           
@@ -82,12 +69,7 @@ console.log(nomeCliente);
 /*
     *
         *
-            A
-                U
-                    L
-                        A
-                            1
-                                3
+            
                                     *
                                         *
                                             */   
@@ -149,7 +131,7 @@ INCREMENTO
 /*
     *
         ********************
-            * REVISÂO ARRAYS    AULA 62@@
+            * REVISÂO ARRAYS   
               ***************
                                 *
                                     */ 
