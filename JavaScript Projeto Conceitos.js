@@ -4,8 +4,45 @@
 // /* Variáveis */
 
 // let nome = "João";
-// const idade = 25;
+//    console.log(nome);
 
+    /* 
+    let numero1 = 10;
+    let numero2 = 5;
+    let resultado;
+    
+    resultado = numero1 + numero2;
+    console.log("Soma:", resultado);
+    
+    resultado = numero1 - numero2:
+    console.log("Resta:", resultado);
+    
+    resultado = numero1 * numero2;
+    console.log("Multiplicador:", resultado);
+    
+    resultado = numero1 / numero2;
+    console.log("Divisão:", resultado);
+    
+    if (resultado > 5) {
+        console.log("Resultado e maior que 5.");
+    } else {
+        console.log("Resultado menor que 5.);
+    }
+    */
+
+// const anos = 25;
+//    console.log("Voçê tem quantos anos", anos);
+//
+//    /* Par ou Ímpar */
+//const verificarParImpar = (numero) => {
+//    const resultado = numero % 2 === 0 ? 'par' : 'ímpar';
+//    return resultado;
+//};
+//
+//const numeroAvaliado = 8;
+//const resultadoVerificacao = verificarParImpar(numeroAvaliado);
+//
+//console.lgo(`Número $ {numeroAvaliado} é ${resultadoVerificacao}`);
 
 // /* Tipos de Dados */
 // let numero = 42;
@@ -19,6 +56,10 @@
 // let soma = 5 + 3;
 // let concatenacao = "Olá" + " " + "mundo";
 // let igualdade = 10 === 5;
+// 
+// let idade = 20;
+// let mensagem = (idade >= 18) ? "Você tem 18 anos" : " Você não tem 18 anos";
+//    console.lgo(mensagem);
 
 
 // /* Controle de Fluxo */
@@ -63,6 +104,24 @@
 // /* DOM (Document Object Model) */
 // let elemento = document.getElementById("meuElemento");
 // elemento.innerHTML = "Novo conteúdo";
+
+// /* Declarção (if) */
+// let idade = 18;
+// if (idade >= 18) {
+//    console.log("Voçê é maior de idade.");
+//
+//       /* if / else */ 
+//let hora = 15:
+//       
+//if (hora < 12) {
+//    console.log("Bom dia");
+//} else if (hora < 18 ) {
+        /* if / else if / else */
+//    console.log("Boa tarde")
+//} else {
+//    console.lgo("Boa noite");
+//}
+//    
 
 
 
