@@ -89,6 +89,20 @@
 //     ano: 1970,
 //     cor: "azul"
 // };
+// //var carro = {
+// //     modelo:"FOX",
+// //     ano:2024,
+// //     cor:"Azul"
+// // };
+
+// // console.log(carro);
+
+// // carro.ano = 2025;
+// // carro.potencia = 1.6;
+
+// // delete carro.cor;
+
+// // console.log(carro)
 
 // let frutas = ["maçã", "banana", "laranja"];
 
