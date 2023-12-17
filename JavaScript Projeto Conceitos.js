@@ -106,6 +106,14 @@
 
 // let frutas = ["maçã", "banana", "laranja"];
 
+// Função setInterval
+// setInterval(funcao, intervalo);
+//
+// function minhafuncao() {
+//     console.log("Executando a função a cada 1000 milissegundo (1 segundo).")
+// }
+//
+// setIterval(minhaFuncao, 1000);
 
 // /* Eventos */
 // let botao = document.getElementById("meuBotao");
